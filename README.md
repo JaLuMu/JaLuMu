@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JaLuMu&show_icons=true&theme=tokyonight&bg_color=FF000000&hide_border=true" /></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JaLuMu&show_icons=true&theme=tokyonight&bg_color=FF000000&hide_border=true" />
